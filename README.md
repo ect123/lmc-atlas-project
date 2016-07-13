@@ -96,3 +96,8 @@
 | san1978-9       |          |                 |       |             |             |        |        |        |
 | san1978-10      |          |                 |       |             |             |        |        |        |
 | san1978-11      |          |                 |       |             |             |        |        |        |
+
+
+* = paste-up corrections     
+     
+A comprehensive list of atlases can also be found here: http://guides.bpl.org/urban-atlases
