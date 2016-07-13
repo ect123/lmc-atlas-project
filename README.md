@@ -100,4 +100,4 @@
 
 * = paste-up corrections     
      
-A comprehensive list of atlases can also be found here: http://guides.bpl.org/urban-atlases
+A comprehensive list of atlases can also be found here: http://guides.bpl.org/urban-atlases/list
