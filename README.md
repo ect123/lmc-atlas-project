@@ -66,7 +66,7 @@
 | brom1928bos     | X        |                 | X     |             |             |        |        |        |
 | brom1931rox     | X        |                 | X     | [DEMO]      | [DEMO]      | [DEMO] | [DEMO] | [DEMO] |
 | brom1933dor     |          |                 |       |             |             |        |        |        |
-| brom1938bos     | X        |                 | X     | [DEMO       | [DEMO       | [DEMO  | [DEMO  | [DEMO] |
+| brom1938bos     | X        |                 | X     | [DEMO       | [DEMO]       | [DEMO]  | [DEMO]  | [DEMO] |
 | san1961-v6*     |          |                 | X     |             |             |        |        |        |
 | san1962-v8*     |          |                 | X     |             |             |        |        |        |
 | san1963-v1n*    |          |                 | X     |             |             |        |        |        |
