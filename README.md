@@ -16,7 +16,7 @@
 | hop1875bri      |          |                 | X     |             |             |        |        |        |
 | hop1882bos      |          |                 |       |             |             |        |        |        |
 | brom1883bos     | X        | X               | X     | X           | X           | X      |        |        |
-| brom1884rox     | X        | X               | X     | X           | X           |        |        |        |
+| brom1884rox     | X        | X               | X     | X           | X           | X      |        |        |
 | brom1884dor     |          |                 |       |             |             |        |        |        |
 | brom1884sb      | X        | X               | X     | [East only] | [East only] |        |        |        |
 | brom1884wrox    |          |                 |       |             |             |        |        |        |
