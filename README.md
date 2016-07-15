@@ -30,7 +30,7 @@
 | brom1890wrox-v6 |          |                 |       |             |             |        |        |        |
 | brom1890bri-v7  |          |                 |       |             |             |        |        |        |
 | brom1891sb-v8   |          |                 |       |             |             |        |        |        |
-| brom1892eb-v9   | X        | X               | X     | X           | X           |        |        |        |
+| brom1892eb-v9   | X        | X               | X     | X           | X           | X      |        |        |
 | brom1892ch-v10  | X        | X               |       |             |             |        |        |        |
 | brom1894dor     | X        | X               | X     | X           | X           |        |        |        |
 | brom1895bos     | X        | X               | X     | X           | X           |        |        |        |
