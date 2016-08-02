@@ -18,7 +18,7 @@
 | hop1875wrox     |          |                 | X     |             |             |        |        |        |
 | hop1875ch       |          |                 | X     |             |             |        |        |        |
 | hop1875bri      |          |                 | X     |             |             |        |        |        |
-| hop1882bos      |          |                 |       |             |             |        |        |        |
+| hop1882bos      |          |                 | X     |             |             |        |        |        |
 | brom1883bos     | X        | X               | X     | X           | X           | X      |        |        |
 | brom1884rox     | X        | X               | X     | X           | X           | X      |        |        |
 | brom1884dor     |          |                 |       |             |             |        |        |        |
