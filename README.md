@@ -23,7 +23,7 @@
 | brom1884rox     | X        | X               | X     | X           | X           | X      |        |        |
 | brom1884dor     |          |                 |       |             |             |        |        |        |
 | brom1884sb      | X        | X               | X     | [East only] | [East only] |        |        |        |
-| brom1884wrox    |          |                 |       |             |             |        |        |        |
+| brom1884wrox    |          |                 | X     |             |             |        |        |        |
 | brom1885ch      | X        | X               | X     |             |             |        |        |        |
 | brom1888bos-v1  | X        | X               | X     | X           | X           | X      |        |        |
 | brom1888bos-v2  | X        | X               | X     | X           | X           | X      |        |        |
