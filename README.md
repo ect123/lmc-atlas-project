@@ -31,17 +31,17 @@
 | brom1889rox-v4  |          |                 | X     |             |             |        |        |        |
 | brom1889dor-v5  |          |                 | X     |             |             |        |        |        |
 | brom1890bos     | X        | X               | X     | X           | X           | X      |        |        |
-| brom1890wrox-v6 |          |                 |       |             |             |        |        |        |
-| brom1890bri-v7  |          |                 |       |             |             |        |        |        |
-| brom1891sb-v8   |          |                 |       |             |             |        |        |        |
+| brom1890wrox-v6 |          |                 | X     |             |             |        |        |        |
+| brom1890bri-v7  |          |                 | X     |             |             |        |        |        |
+| brom1891sb-v8   |          |                 | X     |             |             |        |        |        |
 | brom1892eb-v9   | X        | X               | X     | X           | X           | X      |        |        |
-| brom1892ch-v10  | X        | X               |       |             |             |        |        |        |
+| brom1892ch-v10  | X        | X               | X     |             |             |        |        |        |
 | brom1894dor     | X        | X               | X     | X           | X           |        |        |        |
 | brom1895bos     | X        | X               | X     | X           | X           |        |        |        |
 | brom1896wrox    | X        | X               | X     |             |             |        |        |        |
 | brom1897bri     | X        |                 | X     |             |             |        |        |        |
-| brom1898bos     |          |                 |       |             |             |        |        |        |
-| brom1898dor     |          |                 |       |             |             |        |        |        |
+| brom1898bos     |          |                 | X     |             |             |        |        |        |
+| brom1898dor     |          |                 | X     |             |             |        |        |        |
 | brom1899rox     | X        |                 | X     |             |             |        |        |        |
 | brom1899sb      | X        |                 | X     |             |             |        |        |        |
 | brom1901ch      | X        |                 | X     |             |             |        |        |        |
@@ -62,14 +62,14 @@
 | brom1916bri-1   | X        |                 | X     |             |             |        |        |        |
 | brom1916bri-2   |          |                 |       |             |             |        |        |        |
 | brom1917bos     | X        |                 | X     |             |             |        |        |        |
-| brom1918dor     |          |                 |       |             |             |        |        |        |
+| brom1918dor     |          |                 | X     |             |             |        |        |        |
 | brom1919sb      | X        |                 | X     |             |             |        |        |        |
 | brom1922ch      |          |                 | X     |             |             |        |        |        |
-| brom1924wrox    |          |                 |       |             |             |        |        |        |
+| brom1924wrox    |          |                 | X     |             |             |        |        |        |
 | brom1925bri     | X        |                 | X     |             |             |        |        |        |
 | brom1928bos     | X        |                 | X     |             |             |        |        |        |
 | brom1931rox     | X        |                 | X     | [DEMO]      | [DEMO]      | [DEMO] | [DEMO] | [DEMO] |
-| brom1933dor     |          |                 |       |             |             |        |        |        |
+| brom1933dor     |          |                 | X     |             |             |        |        |        |
 | brom1938bos     | X        |                 | X     | [DEMO       | [DEMO]       | [DEMO]  | [DEMO]  | [DEMO] |
 
 * = paste-up corrections     
