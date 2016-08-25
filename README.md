@@ -21,7 +21,7 @@
 | hop1882bos      |          |                 | X     |             |             |        |        |        |
 | brom1883bos     | X        | X               | X     | X           | X           | X      |        |        |
 | brom1884rox     | X        | X               | X     | X           | X           | X      |        |        |
-| brom1884dor     |          |                 |       |             |             |        |        |        |
+| brom1884dor     |          |                 | X     |             |             |        |        |        |
 | brom1884sb      | X        | X               | X     | [East only] | [East only] |        |        |        |
 | brom1884wrox    |          |                 | X     |             |             |        |        |        |
 | brom1885ch      | X        | X               | X     |             |             |        |        |        |
@@ -47,17 +47,17 @@
 | brom1901ch      | X        |                 | X     |             |             |        |        |        |
 | brom1901eb      | X        |                 | X     |             |             |        |        |        |
 | brom1902bos     | X        |                 | X     |             |             |        |        |        |
-| brom1904dor     |          |                 |       |             |             |        |        |        |
+| brom1904dor     |          |                 | X     |             |             |        |        |        |
 | brom1905wrox    | X        |                 | X     |             |             |        |        |        |
 | brom1906rox     | X        |                 | X     |             |             |        |        |        |
 | brom1908bos     | X        |                 | X     |             |             |        |        |        |
 | brom1909bri     | X        |                 | X     |             |             |        |        |        |
-| brom1910dor     |          |                 |       |             |             |        |        |        |
+| brom1910dor     |          |                 | X     |             |             |        |        |        |
 | brom1910sb      | X        |                 | X     |             |             |        |        |        |
-| brom1912bos     |          |                 |       |             |             |        |        |        |
+| brom1912bos     |          |                 | X     |             |             |        |        |        |
 | brom1912ch      | X        |                 | X     |             |             |        |        |        |
 | brom1912hp      | X        |                 | X     |             |             |        |        |        |
-| brom1914wrox    |          |                 |       |             |             |        |        |        |
+| brom1914wrox    |          |                 | X     |             |             |        |        |        |
 | brom1915rox     | X        |                 | X     |             |             |        |        |        |
 | brom1916bri-1   | X        |                 | X     |             |             |        |        |        |
 | brom1916bri-2   |          |                 |       |             |             |        |        |        |
