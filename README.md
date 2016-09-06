@@ -30,7 +30,7 @@
 | brom1888rox-v3  |          |                 | X     |             |             |        |        |        |
 | brom1889rox-v4  |          |                 | X     |             |             |        |        |        |
 | brom1889dor-v5  |          |                 | X     |             |             |        |        |        |
-| brom1890bos     | X        | X               | X     | X           | X           | X      |        |        |
+| brom1890bos     | X        | X               | X     | X           | X           | X      | X      |        |
 | brom1890wrox-v6 |          |                 | X     |             |             |        |        |        |
 | brom1890bri-v7  |          |                 | X     |             |             |        |        |        |
 | brom1891sb-v8   |          |                 | X     |             |             |        |        |        |
