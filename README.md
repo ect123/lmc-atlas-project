@@ -26,7 +26,7 @@
 | brom1884wrox    |          |                 | X     |             |             |        |        |        |
 | brom1885ch      | X        | X               | X     |             |             |        |        |        |
 | brom1888bos-v1  | X        | X               | X     | X           | X           | X      | X      |        |
-| brom1888bos-v2  | X        | X               | X     | X           | X           | X      | X      |        |
+| brom1888bos-v2  | X        | X               | X     | X           | X           |        |        |        |
 | brom1888rox-v3  |          |                 | X     |             |             |        |        |        |
 | brom1889rox-v4  |          |                 | X     |             |             |        |        |        |
 | brom1889dor-v5  |          |                 | X     |             |             |        |        |        |
