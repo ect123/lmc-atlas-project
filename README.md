@@ -4,12 +4,12 @@
 | san1867bos      |          |                 | X     |             |             |        |        |        |
 | san1868bos-v2   |          |                 | X     |             |             |        |        |        |
 | san1868rox      |          |                 | X     |             |             |        |        |        |
-| san1870bos-v2*  |          |                 |       |             |             |        |        |        |     
-| san1882bos-v1*  |          |                 | X     |             |             |        |        |        |     
-| san1885rox-v2*  |          |                 | X     |             |             |        |        |        |     
-| san1884sb-v3*   |          |                 | X     |             |             |        |        |        |      
-| san1884ch-v4*   |          |                 | X     |             |             |        |        |        |
-| san1871rox*     |          |                 |       |             |             |        |        |        |
+| san1870bos-v2*  |  X       |                 |       |             |             |        |        |        |     
+| san1882bos-v1*  |  X       |                 | X     |             |             |        |        |        |     
+| san1885rox-v2*  |  X       |                 | X     |             |             |        |        |        |     
+| san1884sb-v3*   |  X       |                 | X     |             |             |        |        |        |      
+| san1884ch-v4*   |  X       |                 | X     |             |             |        |        |        |
+| san1871rox*     |  X       |                 |       |             |             |        |        |        |
 | hop1873rox      |          |                 | X     |             |             |        |        |        |
 | beer1874bos     |          |                 | X     |             |             |        |        |        |
 | hop1874bos      |          |                 | X     |             |             |        |        |        |
